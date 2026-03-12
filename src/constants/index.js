@@ -42,37 +42,37 @@ const navIcons = [
 const dockApps = [
     {
         id: "finder",
-        name: "Portfolio", // was "Finder"
+        name: "Portfolio", // *was "Finder"
         icon: "finder.png",
         canOpen: true,
     },
     {
         id: "safari",
-        name: "Articles", // was "Safari"
+        name: "Articles", // *was "Safari"
         icon: "safari.png",
         canOpen: true,
     },
     {
         id: "photos",
-        name: "Gallery", // was "Photos"
+        name: "Gallery", // *was "Photos"
         icon: "photos.png",
         canOpen: true,
     },
     {
         id: "contact",
-        name: "Contact", // or "Get in touch"
+        name: "Contact", // *or "Get in touch"
         icon: "contact.png",
         canOpen: true,
     },
     {
         id: "terminal",
-        name: "Skills", // was "Terminal"
+        name: "Skills", // *was "Terminal"
         icon: "terminal.png",
         canOpen: true,
     },
     {
         id: "trash",
-        name: "Archive", // was "Trash"
+        name: "Archive", // *was "Trash"
         icon: "trash.png",
         canOpen: false,
     },
@@ -106,27 +106,23 @@ const blogPosts = [
 const techStack = [
     {
         category: "Frontend",
-        items: ["React.js", "Next.js", "TypeScript"],
-    },
-    {
-        category: "Mobile",
-        items: ["React Native", "Expo"],
+        items: ["HTML", "Javascript", "React.js"],
     },
     {
         category: "Styling",
-        items: ["Tailwind CSS", "Sass", "CSS"],
+        items: ["CSS", "Sass", "Tailwind CSS"],
     },
     {
         category: "Backend",
-        items: ["Node.js", "Express", "NestJS", "Hono"],
+        items: ["Node.js", "Express"],
     },
     {
         category: "Database",
-        items: ["MongoDB", "PostgreSQL"],
+        items: ["MongoDB", "MySQL"],
     },
     {
         category: "Dev Tools",
-        items: ["Git", "GitHub", "Docker"],
+        items: ["Git", "GitHub", "Figma", "Jira"],
     },
 ];
 
