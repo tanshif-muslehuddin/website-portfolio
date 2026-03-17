@@ -106,15 +106,15 @@ const blogPosts = [
 const techStack = [
     {
         category: "Frontend",
-        items: ["HTML", "Javascript", "React.js"],
+        items: ["HTML", "Javascript", "React.js", "Figma"],
     },
     {
         category: "Styling",
-        items: ["CSS", "Sass", "Tailwind CSS"],
+        items: ["CSS", "Sass", "Tailwind CSS", "Shadcn"],
     },
     {
         category: "Backend",
-        items: ["Node.js", "Express"],
+        items: ["Node.js", "Express", "Java", "Python", "C#", "PHP"],
     },
     {
         category: "Database",
@@ -122,7 +122,7 @@ const techStack = [
     },
     {
         category: "Dev Tools",
-        items: ["Git", "GitHub", "Figma", "Jira"],
+        items: ["Git", "GitHub", "Figma", "Jira", "Confluence", "Vite"],
     },
 ];
 
