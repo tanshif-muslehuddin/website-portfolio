@@ -106,11 +106,11 @@ const blogPosts = [
 const techStack = [
     {
         category: "Frontend",
-        items: ["HTML", "Javascript", "React.js", "Figma"],
+        items: ["HTML", "Javascript", "React.js"],
     },
     {
         category: "Styling",
-        items: ["CSS", "Sass", "Tailwind CSS", "Shadcn"],
+        items: ["CSS", "Sass", "Tailwind CSS", "Shadcn", "Figma"],
     },
     {
         category: "Backend",
@@ -122,7 +122,7 @@ const techStack = [
     },
     {
         category: "Dev Tools",
-        items: ["Git", "GitHub", "Figma", "Jira", "Confluence", "Vite"],
+        items: ["Git", "GitHub", "Jira", "Confluence", "Vite"],
     },
 ];
 
